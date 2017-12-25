@@ -3,7 +3,7 @@ import React from 'react';
 class About extends React.Component{
     render() {
         return(
-    <div class = "col-lg-4 col-lg-offset-4 about">
+    <div className = "col-lg-4 col-lg-offset-4 about">
         <h1>About me</h1>
         <br/>
         <p className="intro">
